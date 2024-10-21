@@ -1,0 +1,7 @@
+.random-products-block {
+  display: flex;
+  justify-content: space-between;
+}
+.product img {
+  width: 100%;
+}
